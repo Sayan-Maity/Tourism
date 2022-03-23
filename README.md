@@ -1,4 +1,4 @@
-# Tour-Travel.github.io
+## Tour-Travel
 This is an Travel and Tour Website made for the tourists \
 
 
