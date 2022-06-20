@@ -1,5 +1,5 @@
 ## Tour-Travel
-This is an Travel and Tour Website made for the tourists \
+This is an Travel and Tour Website made for the tourists 
 
 
 Click here to see this website live \
