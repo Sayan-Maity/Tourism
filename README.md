@@ -1,4 +1,4 @@
-## Tour-Travel
+## Tourism
 This is an Travel and Tour Website made for the tourists 
 
 
